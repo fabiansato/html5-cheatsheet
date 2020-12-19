@@ -1,4 +1,4 @@
-# Cheatsheet de HTML
+# Cheatsheet de HTML 💻
 
 Este es un cheatsheet de HTML. Sirve como complemento para mis cursos online de HTML y Roadmap de Frontend. ¡Sienteté libre de compartirlo y usarlo a tu maner!
 
@@ -31,20 +31,17 @@ Este es un cheatsheet de HTML. Sirve como complemento para mis cursos online de 
 #### Encabezados desde el tipo 1, al 6. Cada documento HTML debe contener un único encabezado h1.: 
 ```html
 <h1></h1>
+<h2></h2>
+....
+<h6></h6>
 ```
-ejemplo:
-```html
-<h2>El subtítulo</h2>
-```
+
 
 #### Párrafo: 
 ```html
 <p></p>
 ```
-ejemplo:
-```html
-<p>Este es un párrafo</p>
-```
+
 
 #### Texto citado desde una fuente externa: 
 ```html
@@ -52,25 +49,15 @@ ejemplo:
 </blockquote>
 
 ```
-ejemplo:
-```html
-<blockquote>Lorem ipsum</blockquote>
-```
+
 
 #### Texto enfatizado: 
 ```html
 <em></em>
 ```
-ejemplo:
-```html
-<em>Enfatizado</em>
-```
+
 
 #### Texto importante (mayor énfasis): 
 ```html
 <strong></strong>
-```
-ejemplo:
-```html
-<strong>Importante</strong>
 ```
